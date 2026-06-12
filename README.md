@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Koala</h1>
 <h3 align="center">Creative technologist / AI agent builder / Full-stack developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvalian&label=Profile%20views&color=0e75b6&style=flat" alt="dreamvalian" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ko4lax" alt="dreamvalian" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ko4lax&label=Profile%20views&color=0e75b6&style=flat" alt="ko4lax" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ko4lax" alt="ko4lax" /></a> </p>
 
 ---
 
@@ -28,14 +28,14 @@
 
 | Project | What it is | Tech |
 |---|---|---|
-| **[atelier](https://github.com/Dreamvalian/atelier)** | AI Creative Director Agent — generative brand identity engine (p5.js + Kimi K2.5 + TTS). Hermes Agent Creative Hackathon submission | Python, p5.js, Kimi API, TTS |
-| **[hermes-agent-monitor](https://github.com/Dreamvalian/hermes-agent-monitor)** | Real-time Hermes Agent dashboard — sessions, skills, cron jobs, system health, analytics | Next.js, TypeScript, Tailwind, shadcn/ui |
-| **[hermes-cyberdeck-theme](https://github.com/Dreamvalian/hermes-cyberdeck-theme)** | Neon cyberpunk dashboard theme for Hermes Agent (hot pink + electric cyan + CRT scanlines) | YAML skin config, CSS |
-| **[onyx-web](https://github.com/Dreamvalian/onyx-web)** | Landing page + admin dashboard for Onyx AI assistant (Discord-based agent) | Next.js, TypeScript, Tailwind, Framer Motion |
-| **[imsak-schedule](https://github.com/Dreamvalian/imsak-schedule)** | Ramadan companion app — auto-location, prayer times, Imsak countdown, monthly calendar | Next.js, TypeScript, Tailwind, SWR, Zod |
-| **[tutoring](https://github.com/Dreamvalian/tutoring)** | Tutoring management system — student, class, attendance, finance modules | PHP, CodeIgniter 4, MySQL, Bootstrap |
-| **[ko4lax.me](https://github.com/Dreamvalian/ko4lax.me)** | Minimal static profile site (GitHub Pages) | Next.js static export, TypeScript |
-| **[woodcraft](https://github.com/Dreamvalian/woodcraft)** | Woodcraft CMS project | Laravel, PHP, Vite, Tailwind |
+| **[atelier](https://github.com/ko4lax/atelier)** | AI Creative Director Agent — generative brand identity engine (p5.js + Kimi K2.5 + TTS). Hermes Agent Creative Hackathon submission | Python, p5.js, Kimi API, TTS |
+| **[hermes-agent-monitor](https://github.com/ko4lax/hermes-agent-monitor)** | Real-time Hermes Agent dashboard — sessions, skills, cron jobs, system health, analytics | Next.js, TypeScript, Tailwind, shadcn/ui |
+| **[hermes-cyberdeck-theme](https://github.com/ko4lax/hermes-cyberdeck-theme)** | Neon cyberpunk dashboard theme for Hermes Agent (hot pink + electric cyan + CRT scanlines) | YAML skin config, CSS |
+| **[onyx-web](https://github.com/ko4lax/onyx-web)** | Landing page + admin dashboard for Onyx AI assistant (Discord-based agent) | Next.js, TypeScript, Tailwind, Framer Motion |
+| **[imsak-schedule](https://github.com/ko4lax/imsak-schedule)** | Ramadan companion app — auto-location, prayer times, Imsak countdown, monthly calendar | Next.js, TypeScript, Tailwind, SWR, Zod |
+| **[tutoring](https://github.com/ko4lax/tutoring)** | Tutoring management system — student, class, attendance, finance modules | PHP, CodeIgniter 4, MySQL, Bootstrap |
+| **[ko4lax.me](https://github.com/ko4lax/ko4lax.me)** | Minimal static profile site (GitHub Pages) | Next.js static export, TypeScript |
+| **[woodcraft](https://github.com/ko4lax/woodcraft)** | Woodcraft CMS project | Laravel, PHP, Vite, Tailwind |
 
 ---
 
@@ -80,7 +80,7 @@
 
 ## 📫 How to reach me
 
-**Email:** hanifnnugraha69@gmail.com   
+**Email:** hi@ko4lax.dev  
 **Koala dev:** [ko4lax.dev](https://ko4lax.dev)
 
 ---
